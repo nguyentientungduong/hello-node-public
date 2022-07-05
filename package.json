@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "node-addon-api": "*"
+  },
+  "scripts": {
+    "test": "node --version"
+  },
+  "gypfile": true,
+  "name": "hello-node-public",
+  "version": "0.0.1",
+  "description": "Simple public Node",
+  "author": "DuongNTT",
+  "license": "Apache-2.0"
+}
