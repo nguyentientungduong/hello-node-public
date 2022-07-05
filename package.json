@@ -10,5 +10,14 @@
   "version": "0.0.1",
   "description": "Simple public Node",
   "author": "DuongNTT",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "main": "hello.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyentientungduong/hello-node-public.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nguyentientungduong/hello-node-public/issues"
+  },
+  "homepage": "https://github.com/nguyentientungduong/hello-node-public#readme"
 }
