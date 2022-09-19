@@ -7,7 +7,7 @@
   },
   "gypfile": true,
   "name": "hello-node-public",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Simple public Node",
   "author": "DuongNTT",
   "license": "Apache-2.0",
