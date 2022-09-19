@@ -7,7 +7,7 @@
   },
   "gypfile": true,
   "name": "hello-node-public",
-  "version": "0.0.1",
+  "version": "2.0.1",
   "description": "Simple public Node",
   "author": "DuongNTT",
   "license": "Apache-2.0",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/nguyentientungduong/hello-node-public/issues"
   },
-  "homepage": "https://github.com/nguyentientungduong/hello-node-public#readme"
+  "homepage": "https://github.com/nguyentientungduong/hello-node-public#readme",
+   "files": [
+    "package.json",
+    "README-short.md"
+  ]
 }
